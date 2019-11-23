@@ -1,0 +1,8 @@
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejercicio_7\obj\Debug\Ejercicio_7.csprojAssemblyReference.cache
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejercicio_7\obj\Debug\Ejercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Colecciones\Ejercicio_7\obj\Debug\Ejercicio_7.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Colecciones\Ejercicio_7\bin\Debug\Ejercicio_7.exe.config
+C:\Users\PC\Desktop\Colecciones\Ejercicio_7\bin\Debug\Ejercicio_7.exe
+C:\Users\PC\Desktop\Colecciones\Ejercicio_7\bin\Debug\Ejercicio_7.pdb
+C:\Users\PC\Desktop\Colecciones\Ejercicio_7\obj\Debug\Ejercicio_7.exe
+C:\Users\PC\Desktop\Colecciones\Ejercicio_7\obj\Debug\Ejercicio_7.pdb

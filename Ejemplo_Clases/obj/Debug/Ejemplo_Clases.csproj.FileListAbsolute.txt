@@ -1,0 +1,2 @@
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejemplo_Clases\obj\Debug\Ejemplo_Clases.csprojAssemblyReference.cache
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejemplo_Clases\obj\Debug\Ejemplo_Clases.csproj.CoreCompileInputs.cache

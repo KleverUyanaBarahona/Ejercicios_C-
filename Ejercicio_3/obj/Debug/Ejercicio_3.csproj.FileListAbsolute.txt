@@ -1,0 +1,6 @@
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejercicio_3\bin\Debug\Ejercicio_3.exe.config
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejercicio_3\bin\Debug\Ejercicio_3.exe
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejercicio_3\bin\Debug\Ejercicio_3.pdb
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejercicio_3\obj\Debug\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejercicio_3\obj\Debug\Ejercicio_3.exe
+C:\Users\Andrés Otero\source\repos\Colecciones\Ejercicio_3\obj\Debug\Ejercicio_3.pdb
