@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Colecciones\Ejercicio_11\bin\Debug\Ejercicio_11.exe.config
+C:\Users\PC\Desktop\Colecciones\Ejercicio_11\bin\Debug\Ejercicio_11.exe
+C:\Users\PC\Desktop\Colecciones\Ejercicio_11\bin\Debug\Ejercicio_11.pdb
+C:\Users\PC\Desktop\Colecciones\Ejercicio_11\obj\Debug\Ejercicio_11.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Colecciones\Ejercicio_11\obj\Debug\Ejercicio_11.exe
+C:\Users\PC\Desktop\Colecciones\Ejercicio_11\obj\Debug\Ejercicio_11.pdb
